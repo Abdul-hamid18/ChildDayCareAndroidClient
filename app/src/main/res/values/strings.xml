@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Child Day Care Application</string>
+    <string-array name="Servicelist">
+        <item>Choose service ...</item>
+        <item>1. Family Child Care Homes</item>
+        <item>2. Family Group Home</item>
+        <item>3. Residential Certificate Homes</item>
+        <item>4. In-Home Care or Nanny</item>
+    </string-array>
+</resources>
